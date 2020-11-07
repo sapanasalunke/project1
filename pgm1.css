@@ -1,0 +1,39 @@
+#main{
+    font-family:sans-serif;
+    background-color: e2e2e2;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+#title{
+    text-align: center;
+}
+h1{
+    padding-top: 10px;
+}
+#img-caption{
+    text-align: center;
+}
+#target-info{
+    widows: 50%;
+    margin: auto;
+    text-align: left;
+    
+}
+.center{
+    display: block;
+    margin:auto;
+    width:15%;
+}
+#info{
+    text-align: center;
+}
+#img-div{
+    background-color: white;
+    padding-bottom: 10px;
+}
+image{
+    margin: auto;
+    max-width: 100%;
+    display: block;
+    height:auto;
+}
